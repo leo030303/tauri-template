@@ -1,7 +1,7 @@
 {
-  "productName": "tauri-template",
+  "productName": "tauritemplate",
   "version": "0.0.1",
-  "identifier": "com.github.leo030303.tauri-template.dev",
+  "identifier": "com.github.leo030303.tauritemplate.dev",
   "build": {
     "beforeDevCommand": "trunk serve",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "tauri-template",
+        "title": "tauritemplate",
         "width": 800,
         "height": 600
       }

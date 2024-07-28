@@ -13,7 +13,7 @@ pub fn App() -> impl IntoView {
 
     view! {
         <Meta name="charset" content="UTF-8"/>
-        <Meta name="description" content="tauri-template"/>
+        <Meta name="description" content="tauritemplate"/>
         <Meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <Meta name="theme-color" content="#e66956"/>
 
